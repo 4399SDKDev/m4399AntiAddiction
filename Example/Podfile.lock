@@ -1,0 +1,16 @@
+PODS:
+  - m4399AntiAddiction (0.1.0)
+
+DEPENDENCIES:
+  - m4399AntiAddiction (from `../`)
+
+EXTERNAL SOURCES:
+  m4399AntiAddiction:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  m4399AntiAddiction: d3179cb5a2b7f1fa6903cd9c4bbc4e8d7c92f11f
+
+PODFILE CHECKSUM: 84ea8c7be2b4078ed277aae5d5f08fa62bddc1c4
+
+COCOAPODS: 1.8.4

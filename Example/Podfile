@@ -1,0 +1,6 @@
+use_frameworks!
+target 'm4399AntiAddiction_Tests' do
+  pod 'm4399AntiAddiction', :path => '../'
+  
+  
+end
