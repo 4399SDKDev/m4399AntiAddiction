@@ -19,7 +19,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,assign)BOOL debugMode;
 
 /// 测试环境开关 （请在4399防沉迷SDK开发者指导下使用，上线时切勿打开）
-@property (nonatomic,assign)BOOL testEnv;
+@property (nonatomic,assign)BOOL debugServerEnv;
 
 
 /// 测试环境心跳时间间隔[秒]（上线时请勿修改该参数，默认<0时，执行服务器配置时间间隔。）
