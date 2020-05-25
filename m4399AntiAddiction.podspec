@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'm4399AntiAddiction'
-  s.version          = '0.1.3'
+  s.version          = '0.1.8'
   s.summary          = '4399防沉迷SDK'
 
 
